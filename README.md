@@ -1,11 +1,10 @@
 <h1 align="center">Hi  I'm Srijanani S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Hepatitis](https://github.com/srijanani18/Hepatitis-C-LR-KNN-RF)
 
 - 🌱 I’m currently learning **React, Angular**
 
-- 👯 I’m looking to collaborate on [Doctor](https://github.com/THINESHBABU0910/Doctor)
+
 
 - 💬 Ask me about **HTML , CSS , Js**
 
