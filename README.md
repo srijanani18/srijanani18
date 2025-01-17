@@ -1,12 +1,12 @@
 <h1 align="center">Hi  I'm Srijanani S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **Microsoft Fabric**
 
 
 
-- 💬 Ask me about **HTML , CSS , Js**
+- 💬 Ask me about **HTML, CSS, React, Angular, React Redux**
 
 - 📫 How to reach me **srijananitj@gmail.com**
 
